@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Zoap Mintz - LIT FARM"};export default function Layout({children}){return <html><body>{children}</body></html>}
