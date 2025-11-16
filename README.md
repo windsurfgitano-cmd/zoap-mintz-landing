@@ -1,2 +1,8 @@
-# zoap-mintz-landing
-🌿 Landing page premium para la cepa ZOAP MINTZ de LIT FARM - Next.js + GSAP + Mint Theme
+# Zoap Mintz
+
+LIT FARM strain landing page.
+
+```bash
+npm install
+npm run dev
+```
